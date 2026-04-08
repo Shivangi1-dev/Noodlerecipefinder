@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_KEY = 'YOUR_SPOONACULAR_API_KEY'; // Get one for free at spoonacular.com/food-api
+const API_KEY = '37fab6ca6dc04f8fa5974748250422f5'; // Get one for free at spoonacular.com/food-api
 
 const App = () => {
   const [recipes, setRecipes] = useState([]);
